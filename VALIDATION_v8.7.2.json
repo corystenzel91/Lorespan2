@@ -1,0 +1,16 @@
+{
+  "version": "8.7.2",
+  "passed": true,
+  "checks": {
+    "version": true,
+    "cinematic_runtime": true,
+    "hinge": true,
+    "curved_flight": true,
+    "one_page_setup": true,
+    "all_covers": true,
+    "no_v871_refs": true,
+    "service_worker": true,
+    "open_book_absent": true
+  },
+  "limitations": "Static/package validation only; physical Android GPU rendering requires deployment."
+}
