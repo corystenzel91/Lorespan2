@@ -1,9 +1,9 @@
-LORESPAN v8.7.2 — CLEAN GITHUB PAGES UPLOAD
+LORESPAN v8.7.3 — CLEAN GITHUB PAGES UPLOAD
 
 1. Extract this ZIP.
 2. Upload every extracted file directly to the repository root. Do not upload the ZIP itself.
 3. index.html must be at the root.
 4. Matching filenames are overwritten by GitHub without altering their contents.
-5. Old differently named files may remain in the repository, but v8.7.2 does not reference them and its service worker deletes older Lorespan caches. For the cleanest deployment, remove obsolete versioned shelf/desk/cover files.
+5. Old differently named files may remain in the repository, but v8.7.3 does not reference them and its service worker deletes older Lorespan caches. For the cleanest deployment, remove obsolete versioned shelf/desk/cover files.
 6. Pages source: main branch, /(root).
 7. After deployment, reload twice or reinstall the PWA once.

@@ -1,0 +1,11 @@
+academy: PASS
+hero: PASS
+beastbound: PASS
+pirate: PASS
+guild: PASS
+starfall: PASS
+moonwake: PASS
+emberwake: PASS
+ironhaven: PASS
+veilwood: PASS
+Shared flow: shelf lift -> curved 3D flight -> desk landing -> hinged open -> left illustration/right opening text -> vertical first page -> character setup -> reverse return.
